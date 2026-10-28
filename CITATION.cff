@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you reference this work, please cite it as below."
+type: article
+title: "当执行趋于无限：人工智能时代的组织形态"
+abstract: >-
+  Cognitive execution is being commoditized. This paper asks what remains for an
+  organization to allocate when execution becomes effectively free, and answers with
+  a design claim: organizations should treat judgment as the object of allocation and
+  attach every autonomous action chain to a subject that can be named.
+authors:
+  - family-names: Wang
+    given-names: Zexin
+date-released: 2026-10-24
+version: v1.0
+license: CC-BY-NC-ND-4.0
+url: https://github.com/m-wzx-crypto/when-execution-becomes-boundless
+repository-code: https://github.com/m-wzx-crypto/when-execution-becomes-boundless
+keywords:
+  - artificial intelligence
+  - organization theory
+  - agentic AI
+  - AI governance
+  - accountability
+  - delegation
+  - judgment rights
+  - inalienability
+  - organizational design
+  - multi-agent systems
