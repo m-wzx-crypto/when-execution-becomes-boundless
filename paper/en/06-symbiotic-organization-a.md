@@ -1,0 +1,33 @@
+# VI. The Symbiotic Organization: Institutionalizing Inalienability
+
+## 1. Definition: from design principles to organizational form
+
+The theory has so far produced three answers: a procurement regime for judgment (retainer and spot call), a normative foundation (four inalienable things and five design principles), and a macro arrangement of rights (the balance sheet of action capacity and the agent property bundle). This section assembles them into an organizational form that can run: **the symbiotic organization** — a human–agent organization whose constraining core is human intent and value judgment, whose principal carrier of cognitive execution and coordination is the agent, whose structure is recomputed dynamically against task and trust, and whose underlying institutions are anchored responsibility and the regeneration of meaning.
+
+The name borrows its grammar from symbiosis theory. A symbiont consists of symbiotic units (humans and agents), a symbiotic interface (semantic interfaces, the permission system, acceptance standards, and the memory system), and a symbiotic environment (technical infrastructure and legal institutions). The design task is to construct reciprocal symbiosis and prevent parasitic symbiosis [35]. The idea of human–machine symbiosis has precursors in decision research [36]; the contribution here is to carry it forward into an organizational architecture with principled foundations and institutional devices. The symbiotic organization is neither a bureaucracy with strong AI nor an anti-bureaucratic utopia. What it proposes is a migration of bureaucracy's carrier: from the interpersonal hierarchy [37] to a rule hierarchy (the intent decomposition tree), an authority hierarchy (the autonomy ladder), and a risk hierarchy (caps and insurability). Contingency theory's proposition that structure follows technology and environment [38] undergoes a re-contingency here: technology and environment have changed; hierarchy itself has not disappeared, only its realization in human bandwidth. The information-processing view [39] acquires a new statement: organizational structure matches the demands of information processing, and when information processing itself is free, what structure must match is the triggering of judgment and the allocation of accountability.
+
+## 2. Three rings: intent, orchestration, execution
+
+The main structure of the symbiotic organization consists of three rings and two vertical layers.
+
+The **intent layer**, led by humans, carries three kinds of activity: setting values and the objective function; composing and decomposing intent packages; adjudicating exceptions and accepting deliverables. In the sense of incomplete contracts, the intent layer is the institutional carrier of human residual control rights [40,34]: wherever the intent package and the constitutional layer have not explicitly provided, adjudication belongs to humans at the intent layer. Since intent cannot be packaged completely at zero cost and without ambiguity, residual control cannot be transferred to a machine without creating a governance vacuum.
+
+The **orchestration layer**, predominantly agents with human arbitration as backup, carries intent parsing and decomposition, capability matching and task routing, progress and conflict monitoring, and the triggering of exception escalation. It is the largest super-agent inside the organization; its governance is the contestability device described in VI.4.
+
+The **execution layer** consists of agents and human judges together, organized by task rather than by standing post — the architectural expression of the spot-marketization of judgment set out in Section III. Humans at the execution layer are either retainer judges (with in-the-loop quotas and retraining duties) or spot-call judges (invoked at a price, case by case); the rights and pricing of both are defined by the balance sheet in Table 1.
+
+Two vertical layers cut across all three rings. The **guardrail layer**, or constitutional layer, carries the value floor and compliance constraints that no intent may override; changing it requires a governance procedure of the same order as amending the charter. The **memory layer** carries organizational memory — semantic knowledge, the reasons for decisions (including rejected options and why they were rejected), and the intent archive. By the property analysis of V.3, the memory layer must be deployed privately: weights may be rented, memory must be owned. The relation among the three rings and two vertical layers is shown in Figure 3.
+
+![Figure 3. The three rings and two vertical layers of the symbiotic organization](../zh/figures/fig3_three_rings.png)
+
+## 3. Two forms of anchoring
+
+The practical difficulty with anchoring is scale. Named anchoring at the chain level requires a named person at the end of every autonomous chain, and one person cannot sign for hundreds of chains. The form is clear on paper and hard to sustain in operation.
+
+Institutional practice offers another path. In July 2026 the UK Financial Conduct Authority published the Mills Review — the first systematic assessment by a financial regulator of AI's impact on retail financial services, drawing on 140 written submissions. Its conclusion: however far an institution automates decision-making, accountability does not automate with it; a person subject to the senior managers and certification regime cannot explain a bad outcome by saying the algorithm did it.
+
+More telling is a second decision. The FCA and the Prudential Regulation Authority consulted formally on whether to create a dedicated AI executive function, and decided against it. Accountability is dispersed along the existing senior management functions — operations, risk, compliance, and finance — under the principle that responsibility follows the function, not the technology [57].
+
+This is a different path from named anchoring at the chain level: **function-level anchoring**. It satisfies M1, because accountability still terminates in a person, but it changes the unit of responsibility from the chain to the function. Each has a cost. Chain-level anchoring has a high false-rejection rate, because the signatory becomes a bottleneck. Function-level anchoring has a high leakage rate, because the boundaries of a function do not coincide with the boundaries of a task.
+
+This paper therefore does not restrict R4 to one form. Both chain-level and function-level anchoring satisfy the requirement that the end carry an identifiable human subject, and both can fail — on scale, or on precision. Proposition P17 in Section VIII treats the trade-off as a testable comparison.
