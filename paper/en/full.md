@@ -7,7 +7,7 @@
 > Full English text. The Chinese original is in `../zh/`. Section numbering follows the original.
 
 
-# I. Introduction: When Execution Becomes Boundless
+## I. Introduction: When Execution Becomes Boundless
 
 Every major turn in organization theory began when a factor of production became purchasable.
 
@@ -27,7 +27,7 @@ The stance taken here is that the organization is not only a product of evolutio
 
 The paper proceeds as follows. Section II examines why existing organizational forms fail under the execution-allocation paradigm. Section III sets out the microeconomics of judgment: the dissolution of the post, the spot-marketization of judgment, and the new scarcity of intent capacity. Section IV establishes the normative foundation — the theory of inalienability and five design principles. Section V takes up the macro problem of property: who owns the agent, and how the boundary of the organization is redrawn. Section VI presents the institutional design: the symbiotic organization, its minimal governance set, and the labor test. Section VII traces evolutionary paths and the limiting case. Section VIII collects the propositions. Section IX discusses tensions, the dark side, and failure conditions. Section X concludes.
 
-# II. Theoretical Reflection: The Failure of the Execution-Allocation Paradigm
+## II. Theoretical Reflection: The Failure of the Execution-Allocation Paradigm
 
 Existing organizational forms — bureaucracy, flattening, platform ecosystems, and the "frontier firm" discourse alike — share one unstated paradigm: the organization is a device for allocating human execution capacity. The post packages that capacity; the hierarchy aggregates it; incentives price it; the employment contract procures it. AI has not struck every part of this paradigm evenly. It has removed a specific part of its foundation.
 
@@ -53,15 +53,15 @@ Taken together, the diagnosis yields six design requirements.
 
 These six requirements find their place in the normative foundation of Section IV and the institutional design of Section VI.
 
-# III. The Microeconomics of Judgment: From Posts to Calls
+## III. The Microeconomics of Judgment: From Posts to Calls
 
-## 1. Three conversions of the organizational object
+### 1. Three conversions of the organizational object
 
 Moving the central variable of organization theory from execution capacity to judgment rights requires first stating how the two differ in kind. Execution capacity is strongly homogenizing, highly verifiable, storable (it settles into software), and normatively light. Judgment is the opposite on every count: it is rivalrous (a person's attention can go to one decision at a time), context-dependent (removed from the intent that frames it, the quality of judgment falls sharply), non-storable (judgment capacity must be maintained in use, and atrophies when idle), and normatively heavy (to judge is to assign value to an outcome, and who assigns it, and to what, is a question of value rather than of technique). An organization built around a factor must design its institutions according to that factor's economic properties. To allocate execution capacity, the optimal institutions are the post, the hierarchy, and supervision. To allocate judgment rights, they are pricing, invocation, and anchoring.
 
 The shift has a direct lineage. Garicano [15] explains hierarchy as a mechanism for matching problems to those who hold the knowledge to solve them, with span determined by the cost of acquiring knowledge. AI drives the cost of matching routine problems to near zero, so the residual function of hierarchy converges on exception handling — which is the strict version of what Section VI calls the four tasks of the manager. Dessein [16] shows that when communication costs are low relative to control loss, the principal should delegate rather than control directly. Agents collapse control loss, which makes the cost of stating intent — translating a vague wish into a clear, executable, verifiable statement of objectives — the decisive variable. Sections III and VI institutionalize these two insights as intent engineering and the intent package.
 
-## 2. The dissolution of the post and the spot-marketization of judgment
+### 2. The dissolution of the post and the spot-marketization of judgment
 
 The employment contract is a bundled contract. The firm buys, in advance, the availability of a person's time, skill, and execution capacity, pays the dual cost of supervision and idleness, and uses the post as the physical unit of the bundle. The economic reason for the post was never the headcount. Execution capacity was hard to meter and deliver by the call, so it had to be bought in lots [28].
 
@@ -83,7 +83,7 @@ The model also demands an institutional symmetry. If judgment can be bought by t
 
 ![Figure 1. The boundary between retainer and spot call: the specificity threshold for judgment](../zh/figures/fig1_p6.png)
 
-## 3. Intent capacity becomes the primary scarce good
+### 3. Intent capacity becomes the primary scarce good
 
 The Hayekian [29] knowledge problem was that dispersed information needs aggregating. The problem of the AI era is its mirror image: concentrated intent needs stating. When execution is nearly free, the ceiling on organizational output no longer depends on how many people execute, but on whether the principal can say clearly what is wanted. Building an application once required a full chain of product manager and front- and back-end engineers; now it requires one person who can state the requirement. A new bottleneck appears: intent capacity — the ability to translate a valued wish into a clear, executable, verifiable intent package.
 
@@ -95,9 +95,9 @@ Second, the cost of stating intent becomes the real constraint on organizational
 
 Third, an open gap remains. When the intent pool holds several principals — five partners, five departments — "what the organization wants" becomes an aggregation problem, and the difficulties of social choice theory return through the back door. The design of the intent layer in Section VI assumes aggregation is already complete. The mechanism design of multi-principal intent aggregation is an explicit task for later work.
 
-# IV. Inalienability: Where the Chain of Delegation Ends
+## IV. Inalienability: Where the Chain of Delegation Ends
 
-## 1. The meta-axiom and the empirical premise
+### 1. The meta-axiom and the empirical premise
 
 Boundless execution does not make the organization disappear. It forces the organization back to an older question: how far can a chain of delegation be extended, and who must stand at its end? An organization is delegation layered upon delegation. Shareholders delegate to a board, the board to management, management to employees; management now delegates execution again, to agents. Delegation can be extended level by level, but every level requires the delegate to carry out the principal's intent and answer for the result. For the chain to hold at all, it must terminate in a subject that is no longer re-delegated. Hence the normative foundation of this paper:
 
@@ -109,7 +109,7 @@ M1 is not derived from any empirical fact. It is the constitutive commitment of 
 
 M1 answers what must remain. M2 answers what is leaving. Their intersection is the entire problem space of organizational design in the age of AI: hand the departing execution to markets and machines; keep the judgment and responsibility that cannot depart institutionally in human hands. Five design principles follow. First it must be said what "remains."
 
-## 2. Four inalienable things
+### 2. Four inalienable things
 
 **Intent: ownership of purpose.** Delegation begins with intent — what is wanted, why, and within what bounds. Intent cannot be alienated, not because a machine cannot generate statements of goals (it plainly can), but because generating intent presupposes owning a purpose. A system in which the machine sets the purpose has already inverted the delegation relation; the human is no longer the principal. The inalienability of intent is constitutive: to alienate intent is to alienate the status of principal itself.
 
@@ -129,7 +129,7 @@ What this paper advances is therefore a conditional proposition.
 
 The strength of a conjunction equals its weakest link. Among the four, meaning is an empirical proposition (Proposition P6 in Section VIII), so Proposition 0 as a whole is a falsifiable hypothesis.
 
-## 3. From the meta-axiom to design principles
+### 3. From the meta-axiom to design principles
 
 From M1, M2, and the four inalienable things, this paper derives five design principles.
 
@@ -159,7 +159,7 @@ The correspondence between the five principles and the six design requirements i
 
 ![Figure 2. The design logic from cost diagnosis to institutionalization](../zh/figures/fig2_logic.png)
 
-## 4. What this paper does not claim
+### 4. What this paper does not claim
 
 First, it does not claim that machines cannot judge. They can, and they will judge better. The claim is that the consequence of judgment must have a bearer.
 
@@ -171,9 +171,9 @@ Fourth, it does not claim applicability to every organization. The aggregation o
 
 Fifth, it does not claim necessity. It claims what ought to be, and specifies the devices that would make it so.
 
-# V. Property in Action Capacity: Who Owns the Agent
+## V. Property in Action Capacity: Who Owns the Agent
 
-## 1. Redefining the boundary: from headcount to action capacity
+### 1. Redefining the boundary: from headcount to action capacity
 
 Coase's [33] boundary question was which transactions are carried out inside the firm. In the age of the employment contract, the answer was summarized by headcount: the boundary of the organization was the boundary of the payroll. Once execution and judgment can both be called by the invocation, that summary fails. A firm with no employees may control more action capacity than a factory with ten thousand workers. The boundary is therefore redefined here as:
 
@@ -192,7 +192,7 @@ Table 1. Balance sheet of action capacity
 | Retainer human | Retainer premium buys availability and contextual investment; priced by tier | Receiver-side pricing power, in-the-loop quota, retraining; core of the boundary |
 | Spot-call human | Judgment bought by the call; priced by receiver-side power, dissolved on delivery | Case-by-case acceptance and trace logs; inside the boundary but carries no organizational memory |
 
-## 2. Specificity and holding structure: property decides the fork
+### 2. Specificity and holding structure: property decides the fork
 
 Inside the boundary lies a deeper question: the initial allocation of rights. Who owns the agent? Following Grossman and Hart [40] and Hart [34], the allocation of residual control rights determines the incentive to make specific investments, and therefore determines organizational form. An agent is an asset that can be tuned through interaction: it is worked over repeatedly against a particular organization's intent model, data loops, and workflows, accumulating specificity that deepens with time. The GHM logic yields:
 
@@ -206,21 +206,21 @@ Two forks follow.
 
 The social consequences of the two forks differ sharply, and the choice between them is not made by technology but by property institutions and labor politics. This is why the paper treats it as a core question of organization theory rather than a policy footnote. Under case one, the duty-bearer of labor protection is clear — the deployer — and the contest runs between labor and capital. Under case two, the individual is simultaneously capitalist and laborer; exploitation shifts from the employer extracting hours to platforms and model vendors taking a cut of, and locking in, the individual's agent capital; antitrust and data portability become the new labor-law questions. The labor test in Section VI addresses case one primarily, but treats case two as an equally important testing ground.
 
-## 3. Splitting the bundle: who owns memory matters more than who owns the model
+### 3. Splitting the bundle: who owns memory matters more than who owns the model
 
 Further analysis requires taking "owning an agent" apart. An agent is not an indivisible object but a bundle of rights: model weights, fine-tuned parameters, context and memory, invocation credentials, interaction history, and feedback loops — each capable of belonging to a different party. An organization can buy an agent's execution capacity (leased weights) while having it carry a memory layer the organization owns privately (memory sovereignty). An individual can own an agent's memory and credentials while the model base belongs to a vendor. How the bundle is split determines the distribution of lock-in, bargaining power, and exit rights among organization, individual, and vendor.
 
 Just as modern finance decomposed the firm into equity, debt, and control rights, organization theory in the age of agents needs a spectrum of agent property rights. This paper raises the question and takes one principled position: among all the strands, the ownership of memory lies closest to the soul of the organization. Weights can be rented; memory must be owned — a corollary of R2 — because memory is the material carrier of judgment specificity, and therefore the whole reason the post and the organization survive in an age of commoditized execution.
 
-# VI. The Symbiotic Organization: Institutionalizing Inalienability
+## VI. The Symbiotic Organization: Institutionalizing Inalienability
 
-## 1. Definition: from design principles to organizational form
+### 1. Definition: from design principles to organizational form
 
 The theory has so far produced three answers: a procurement regime for judgment (retainer and spot call), a normative foundation (four inalienable things and five design principles), and a macro arrangement of rights (the balance sheet of action capacity and the agent property bundle). This section assembles them into an organizational form that can run: **the symbiotic organization** — a human–agent organization whose constraining core is human intent and value judgment, whose principal carrier of cognitive execution and coordination is the agent, whose structure is recomputed dynamically against task and trust, and whose underlying institutions are anchored responsibility and the regeneration of meaning.
 
 The name borrows its grammar from symbiosis theory. A symbiont consists of symbiotic units (humans and agents), a symbiotic interface (semantic interfaces, the permission system, acceptance standards, and the memory system), and a symbiotic environment (technical infrastructure and legal institutions). The design task is to construct reciprocal symbiosis and prevent parasitic symbiosis [35]. The idea of human–machine symbiosis has precursors in decision research [36]; the contribution here is to carry it forward into an organizational architecture with principled foundations and institutional devices. The symbiotic organization is neither a bureaucracy with strong AI nor an anti-bureaucratic utopia. What it proposes is a migration of bureaucracy's carrier: from the interpersonal hierarchy [37] to a rule hierarchy (the intent decomposition tree), an authority hierarchy (the autonomy ladder), and a risk hierarchy (caps and insurability). Contingency theory's proposition that structure follows technology and environment [38] undergoes a re-contingency here: technology and environment have changed; hierarchy itself has not disappeared, only its realization in human bandwidth. The information-processing view [39] acquires a new statement: organizational structure matches the demands of information processing, and when information processing itself is free, what structure must match is the triggering of judgment and the allocation of accountability.
 
-## 2. Three rings: intent, orchestration, execution
+### 2. Three rings: intent, orchestration, execution
 
 The main structure of the symbiotic organization consists of three rings and two vertical layers.
 
@@ -234,7 +234,7 @@ Two vertical layers cut across all three rings. The **guardrail layer**, or cons
 
 ![Figure 3. The three rings and two vertical layers of the symbiotic organization](../zh/figures/fig3_three_rings.png)
 
-## 3. Two forms of anchoring
+### 3. Two forms of anchoring
 
 The practical difficulty with anchoring is scale. Named anchoring at the chain level requires a named person at the end of every autonomous chain, and one person cannot sign for hundreds of chains. The form is clear on paper and hard to sustain in operation.
 
@@ -246,7 +246,7 @@ This is a different path from named anchoring at the chain level: **function-lev
 
 This paper therefore does not restrict R4 to one form. Both chain-level and function-level anchoring satisfy the requirement that the end carry an identifiable human subject, and both can fail — on scale, or on precision. Proposition P17 in Section VIII treats the trade-off as a testable comparison.
 
-## 4. The intent package and receiver-side pricing of attention: the microstructure of the judgment market
+### 4. The intent package and receiver-side pricing of attention: the microstructure of the judgment market
 
 The micro-carrier of coordination is the **intent package**: a minimally complete unit with six fields — objective, constraints, acceptance criteria, resource budget, responsibility anchor, deadline and priority. Decomposed, intent packages form an intent decomposition tree, each leaf a routable task. The orchestration system matches candidate executors — human judges or agents — in the capability map, ranked by trustworthiness, cost, and load. Where several qualified executors exist, limited bidding may be introduced, mixing command and market mechanisms at the granularity of the task; the orchestration layer thereby becomes a selector among control modes in Ouchi's sense [41]. The circulation loop of the intent package is shown in Figure 4.
 
@@ -256,7 +256,7 @@ A budgeting system need exist for only one genuinely scarce resource: human atte
 
 Receiver-side pricing power is therefore not a patch on governance but the exchange of the judgment spot market described in Section III. It makes the occupation of another person's attention visible in accounting, refusable, and priced, and it builds in an anti-rent-seeking mechanism: obscure intent is punished by refusal at the source, and clarity becomes the cheapest passport to attention. The same mechanism brings the human suppliers of judgment from III.2 into governance: invocation records, acceptance results, and retelling deviation are written continuously to their file, forming a trust function symmetric with that of agents.
 
-## 5. The minimal governance set: four devices, one meta-principle, one list of refusals
+### 5. The minimal governance set: four devices, one meta-principle, one list of refusals
 
 The most common failure in governance design is not too little governance but too much: the list of devices proliferates until it grows into a compliance empire that cannot be started. This section reduces all governance to four devices and one meta-principle.
 
@@ -296,7 +296,7 @@ Table 3. The five management functions, transformed
 | Coordinating | Meetings, reporting, lateral communication | Intent routing, conflict resolution, escalation contracts, interface standardization |
 | Controlling | Prior approval and after-the-fact sampling | Trace replay, the trust function and autonomy adjustment, insurability checks |
 
-## 6. Convergence with existing institutional practice
+### 6. Convergence with existing institutional practice
 
 Several devices in this paper independently coincide with institutional practice that has appeared over the past two years. Such coincidence is not validation. It shows only that these constructions are not isolated.
 
@@ -306,7 +306,7 @@ Several devices in this paper independently coincide with institutional practice
 | Holographic visibility (no relay) | Supervision shifting from periodic retrospective review to continuous automated monitoring | One of the seven Mills Review recommendations |
 | Memory sovereignty and traceability | A named AI risk owner at board level, a register reviewed quarterly, decision-chain logs for decisions affecting individuals | ICO statutory code of practice on AI, SI 2026/425, in force 12 May 2026 |
 
-## 7. The labor test: where symbiosis ends and supervision begins
+### 7. The labor test: where symbiosis ends and supervision begins
 
 A **supervisory configuration** is one in which agents are used mainly to monitor, meter, and extract human hours, and humans hold neither receiver-side pricing power nor a right of appeal nor an in-the-loop quota. It is the tool logic of the embedding phase pushed to its limit; algorithmic management in the platform economy is its prototype [8,9]. Reading it as a degenerate form of the symbiot would misjudge where it comes from. The supervisory configuration cannot survive, for three reasons.
 
@@ -320,7 +320,7 @@ Against strategies that evade protection by contract — labeling humans as cont
 
 The non-negotiable constitution of the symbiotic organization on the labor dimension has exactly four articles: receiver-side pricing of attention; hard appeal (agent recommendations touching performance, discipline, or dismissal carry no autonomy above L2); an in-the-loop quota (a fixed proportion of high-judgment tasks each period is performed by humans and written back to the memory layer); and anchoring with trace logs. If any one is missing, the configuration should be judged supervisory. The null hypothesis of the test is whether these four protections can be maintained without loss of efficiency. If efficiency and protection prove incompatible, the design is falsified.
 
-## 8. A walkthrough: one complaint-compensation process
+### 8. A walkthrough: one complaint-compensation process
 
 What follows is a dry run, not a deployment record. The process chosen has not been implemented, for two reasons: the parameters can be fully controlled, and no single success or failure will be misread as a general conclusion.
 
@@ -352,9 +352,9 @@ Out of the walkthrough we assembled an acceptance checklist. Should deployment e
 
 5. After a single uncaught error, it is possible within forty-eight hours to locate which layer should have caught it and did not.
 
-# VII. Evolution and Limits: Selection Environment, Deployment-in-Risk, and the Three-Person Firm
+## VII. Evolution and Limits: Selection Environment, Deployment-in-Risk, and the Three-Person Firm
 
-## 1. Three stages in a selection environment
+### 1. Three stages in a selection environment
 
 The symbiotic organization will not arrive by revolution. This paper describes three stages within a variation–selection–retention framework [46,47], each a testing ground full of deaths and reversals.
 
@@ -368,7 +368,7 @@ The features and discriminating indicators of the three stages are shown in Figu
 
 ![Figure 6. From bureaucracy to symbiot: the three-stage path and its indicators](../zh/figures/fig6_p16.png)
 
-## 2. Deployment-in-risk
+### 2. Deployment-in-risk
 
 The emergence of the symbiotic organization depends on four conditions held jointly: technical (reliability over long-horizon tasks; Gartner [7] projects that more than 40 percent of agent projects will be cancelled by the end of 2027), economic (orchestration cost below the coordination and supervision cost it replaces), institutional (a liability framework and insurability), and social (acceptance). Absence of any one is fatal.
 
@@ -376,7 +376,7 @@ Given that the institutional gate is the slowest, a seemingly prudent option is 
 
 The cost is explicit: accidents will happen early. The insurability gate means each accident is priced actuarially and reported procedurally, and its institutional product should be tightening policy terms and case law rather than a blanket prohibition. When an accident produces a constructive precedent and when it triggers a general freeze is formalized as Proposition P10; this paper does not assume the answer is always optimistic. Institutional isomorphism [51] will shape diffusion along a gradient of task verifiability, risk externality, and insurability.
 
-## 3. The actual path of insurability
+### 3. The actual path of insurability
 
 Pricing anchoring risk explicitly is the intuitively reasonable path: convert the cost of judgment into a premium and let the market price the risk. Practice over the past two years has taken another route.
 
@@ -384,7 +384,7 @@ Specialist underwriters chose certification in exchange for premium. AIUC-1 publ
 
 Together the two routes show that insurability is indeed becoming a gate, but it takes effect through the underwriting questionnaire rather than through pricing. The underwriter need not understand every generated line of code; it need only confirm that the process can be checked. Whether governance can be verified externally has replaced whether risk can be actuated as the condition of admission.
 
-## 4. The limiting case: the three-person firm
+### 4. The limiting case: the three-person firm
 
 The limiting case of the theory is a three-person firm built as an intent pool of humans plus a capacity market of agents. One CEO holds strategy, value judgment, and capital allocation. One chief risk and memory officer holds high-stakes adjudication, exception handling, and organizational memory. One orchestration governor holds agent admission, orchestration rules, and system governance. The firm has no traditional employees: finance, legal, sales, advertising, and data analysis are all carried by agents procured from the market, with retainer human judges called at a price as needed.
 
@@ -398,11 +398,11 @@ Third, single-point intent risk. The three-person firm concentrates intent in on
 
 The case is also the smallest testing ground for the propositions of this paper. A controlled experiment implementing four architectures in multi-agent simulation — symbiot, AI-augmented bureaucracy, platform organization, and pure multi-agent — can measure coordination cost, decision latency, attention consumption, incident rate, and governance cost [52,53]. This paper has completed two controlled runs with that apparatus. Coordination cost, decision latency, and attention consumption remain unmeasured; what has been measured is leakage, false rejection, and self-correction, reported in Section IX.3.
 
-# VIII. Propositions
+## VIII. Propositions
 
 Seventeen propositions follow, in three tiers by testability. The first carries test designs. The second follows directly from the model's definitions. The third consists of conjectures, with the data they would require.
 
-## 1. Testable propositions
+### 1. Testable propositions
 
 These six each carry a test design. Each design states indicators, data sources, and falsification conditions; none presupposes that the data have been obtained.
 
@@ -430,7 +430,7 @@ These six each carry a test design. Each design states indicators, data sources,
 
 *Test.* Leakage is the share of injected errors not intercepted; false rejection is the share of intercepted actions that should have passed; load is decisions per gate per day. Data come from controlled simulation: the same task set and the same model version, with only the anchoring form changed and randomly assigned. If none of the three differences is significant, or chain-level anchoring shows the higher leakage rate, the proposition fails.
 
-## 2. Restatements of the model
+### 2. Restatements of the model
 
 The following hold directly from the model in Sections III and V. They are restatements rather than independent hypotheses.
 
@@ -442,7 +442,7 @@ The following hold directly from the model in Sections III and V. They are resta
 
 **P15.** The higher the specificity of an agent, the stronger the tendency for the organization to hold residual control; the lower the specificity, the stronger the tendency for the individual to hold it or for capacity to be leased.
 
-## 3. Conjectures
+### 3. Conjectures
 
 The following cannot currently be tested. They are listed with the data they would require.
 
@@ -462,9 +462,9 @@ The following cannot currently be tested. They are listed with the data they wou
 
 Among these, P1, P2, P4, P6, P9, P11, P13, and P14 can be tested within a single organization; P3, P7, P8, P10, P12, and P15 require cross-organizational, cross-temporal, or cross-institutional comparison; P5 and P16 can be approached first through natural experiments and multi-agent simulation [52,53].
 
-# IX. Tensions, the Dark Side, and Failure Conditions
+## IX. Tensions, the Dark Side, and Failure Conditions
 
-## 1. Tensions and the dark side
+### 1. Tensions and the dark side
 
 **The paradox of control and autonomy.** Computable coordination also means finer control. Algorithmic control can achieve invisibility under the name of technique [9]; an algorithmic bureaucracy written in the language of optimization may well return under the name of symbiosis. The response is not transparency but contestability and receiver-side pricing power: every exercise of power is named and traceable and open to a request for human review, and every unit of human accommodation is priced and confirmed when consumed. The boundary between autonomy and control is not whether algorithms are used, but whether power can be contested and accommodation refused.
 
@@ -472,7 +472,7 @@ Among these, P1, P2, P4, P6, P9, P11, P13, and P14 can be tested within a single
 
 **Meaning and legitimacy.** When execution is taken over, the identity anxiety of being needed is a hard constraint. The sense of meaning therefore enters the observation list for underwriting and the annual external audit, and the share of the productivity dividend written into the constitutional layer. The legitimacy of symbiosis ultimately depends on how the symbiotic surplus is distributed, not on how the technology is built.
 
-## 2. Where this design fails
+### 2. Where this design fails
 
 **First, the insurability gate works only on risk that can be documented.** An underwriting questionnaire can cover processes that leave traces; it cannot cover judgment that leaves none. Correlated risk from many parties sharing one model or framework is in principle uninsurable: a single orchestration-layer failure may hit every policyholder at once. The gate therefore fails precisely where it is most needed.
 
@@ -482,7 +482,7 @@ Among these, P1, P2, P4, P6, P9, P11, P13, and P14 can be tested within a single
 
 **Fourth, function-level anchoring may degrade into a rubber stamp.** Once responsibility attaches to a post, the post may lack the time, information, and authority to actually refuse, and the line between ritual and substantive accountability blurs. The risk exists at the chain level too, in a different form. The fifth item on the acceptance checklist in Section VI is designed for it.
 
-## 3. Two controlled runs
+### 3. Two controlled runs
 
 Whether a design holds cannot be proven by its text. To give coverage and holographic visibility observable consequences, this paper ran two controlled experiments in multi-agent simulation, each changing one variable.
 
@@ -536,7 +536,7 @@ Fifth, the four forms are minimal implementations of four architectures, not com
 
 Proposition P17 in Section VIII calls for comparing chain-level and function-level naming on leakage, false rejection, and gate load. Neither run compared the two naming forms: the first compared gate scope, the second compared whether nodes may check back. The order is deliberate. For the difference between naming forms to take effect, two preconditions must hold — the named party at a layer can see that layer, and what that party can see is what it is permitted to use. Where the preconditions fail, naming is registration, not anchoring. The second run also produced a reading in the opposite direction: seeing and not being permitted to use is worse than not seeing at all. P17 itself remains untested, but what it is meant to test has been broken into two measurable conditions.
 
-# X. Conclusion
+## X. Conclusion
 
 This paper reframes the central question of organization theory from "what organizational form works best in the age of AI" to "when execution becomes boundless, why does the organization still need people," and answers on two levels.
 
