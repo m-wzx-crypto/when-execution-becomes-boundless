@@ -18,7 +18,7 @@
 
 核心问题不是「AI 会不会取代管理者」，而是：**当执行能力趋于无限，组织还剩下什么可配置？** 本文的回答是判断——组织必须以判断权为配置对象，并使每一条自主行动链的末端系于一个可被指名的主体。
 
-英文摘要见 [`paper/en/abstract.md`](paper/en/abstract.md)。英文全文待补（见 [Roadmap](#roadmap)）。
+**英文全文已完成**：[`paper/en/full.md`](paper/en/full.md)（约 13,600 词，十节全译）。也可按节阅读，见目录。
 
 A design-theory paper on **organizational form under agentic AI**: delegation chains, judgment rights, the inalienability of accountability, and the property arrangement of action capacity. Includes 17 testable propositions and one controlled multi-agent simulation. Chinese full text; English abstract available, English full text forthcoming.
 
@@ -66,10 +66,20 @@ A design-theory paper on **organizational form under agentic AI**: delegation ch
 │   │   ├── when-execution-becomes-boundless.zh.pdf
 │   │   └── figures/                          # 图 1–6
 │   └── en/
+│       ├── full.md                           # 英文全文（合订，13,600 词）
 │       ├── abstract.md                       # English abstract + keywords
 │       ├── 00-glossary.md                    # 术语对照表
-│       ├── 01-introduction.md                # I. Introduction
-│       └── 02-theoretical-reflection.md      # II. Theoretical Reflection
+│       ├── 01-introduction.md                # I
+│       ├── 02-theoretical-reflection.md      # II
+│       ├── 03-microeconomics-of-judgment.md  # III
+│       ├── 04-inalienability.md              # IV
+│       ├── 05-property-in-action-capacity.md # V
+│       ├── 06-symbiotic-organization-a/b/c.md # VI（三段）
+│       ├── 07-evolution-and-limits.md        # VII
+│       ├── 08-propositions.md                # VIII
+│       ├── 09-a-tensions.md                  # IX.1–2
+│       ├── 09-b-two-controlled-runs.md       # IX.3
+│       └── 10-conclusion.md                  # X
 ├── CITATION.cff
 ├── LICENSE
 └── README.md
@@ -85,7 +95,7 @@ A design-theory paper on **organizational form under agentic AI**: delegation ch
 - [x] 英文标题、摘要、关键词
 - [x] 英文术语表（`paper/en/00-glossary.md`）
 - [x] 英文 §I 引言、§II 理论反思
-- [ ] 英文 §III–§X（逐章翻译中）
+- [x] 英文全文 §I–§X（约 13,600 词，`paper/en/full.md`）
 - [ ] 实验数据与复现脚本（整理中）
 - [ ] 引文与参考文献的 DOI 补全
 
