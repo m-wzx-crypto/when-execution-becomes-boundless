@@ -66,7 +66,10 @@ A design-theory paper on **organizational form under agentic AI**: delegation ch
 │   │   ├── when-execution-becomes-boundless.zh.pdf
 │   │   └── figures/                          # 图 1–6
 │   └── en/
-│       └── abstract.md                       # English abstract + keywords
+│       ├── abstract.md                       # English abstract + keywords
+│       ├── 00-glossary.md                    # 术语对照表
+│       ├── 01-introduction.md                # I. Introduction
+│       └── 02-theoretical-reflection.md      # II. Theoretical Reflection
 ├── CITATION.cff
 ├── LICENSE
 └── README.md
@@ -80,7 +83,9 @@ A design-theory paper on **organizational form under agentic AI**: delegation ch
 
 - [x] 中文全文（v1.0，2026-10）
 - [x] 英文标题、摘要、关键词
-- [ ] 英文学术全文（逐章翻译中）
+- [x] 英文术语表（`paper/en/00-glossary.md`）
+- [x] 英文 §I 引言、§II 理论反思
+- [ ] 英文 §III–§X（逐章翻译中）
 - [ ] 实验数据与复现脚本（整理中）
 - [ ] 引文与参考文献的 DOI 补全
 
